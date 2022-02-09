@@ -2,11 +2,12 @@
 
 Bot_Token=<Your_Token>
 Chat_id=<Chat_id>
-media_dir="/path/to/directory"
-cache="/path/to/cache"
+media_dir="/path/to/your/directory"
 
 # 广告内容，将显示在每个视频的下面描述中
 ad="👉@lightrekt"
+
+cache="~/.telepost"
 
 # 获取各种参数以及视频描述
 function detect(){
